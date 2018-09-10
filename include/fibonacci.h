@@ -8,7 +8,7 @@
 #include <cstdint>
 #include <string>
 
-namespace edu { namespace sbcc { namespace cs140 {
+namespace edu { namespace vcccd { namespace vc { namespace csv15 {
     uint64_t fibonacci(uint64_t i);
-}}}
+}}}}
 #endif //FIBONACCI_FIBONACCI_H
